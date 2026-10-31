@@ -22,8 +22,10 @@ with a focus on fraud detection and anti-money laundering (AML).
 Emerging AI technologies: AI agents, RAG pipelines and LLM fine-tuning.
 
 ## 🚀 Featured Projects
-- [Project Name](link) – Short description.
-- [Project Name](link) – Short description.
+- [Image Classification with Deep Learning in R](https://saulofender.github.io/blogDoSaulo/posts/2022-03-24-projeto-deep-learning/) – Image classifier built with Keras and TensorFlow, using R.
+- [Linear Regression with R](https://saulofender.github.io/blogDoSaulo/posts/2021-11-13-projeto-regresso-linear-com-r/) – Analysis of which car characteristics best explain fuel efficiency.
+- [Polyglot Post: R, Python & SQL](https://saulofender.github.io/blogDoSaulo/posts/2021-04-07-exemplo-de-post-poliglota/) – Combining R, Python and SQL in a single R Markdown document.
+- [Data Science Blog](https://saulofender.github.io/blogDoSaulo/) – Personal blog with data science posts, built with R (Distill).
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/salomão-valentim-1118952a/) · salomao.valentim@gmail.com
