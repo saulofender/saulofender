@@ -28,7 +28,7 @@ I'm also continuously expanding my expertise in Machine Learning and Artificial 
 
 ## 📜 Certifications & Education
 
-- **[Databricks Certified Machine Learning Associate](https://credentials.databricks.com/3ff584cf-84d5-45f8-9444-c74d0ed8708b#acc.nDLPFcdX)** – Databricks
+- **[Databricks Certified Machine Learning Engineer Associate](https://credentials.databricks.com/3ff584cf-84d5-45f8-9444-c74d0ed8708b#acc.nDLPFcdX)** – Databricks
 - **Bachelor's Degree in Statistics** – Universidade do Estado do Rio de Janeiro (UERJ)
 
 ## 📚 Currently Learning
