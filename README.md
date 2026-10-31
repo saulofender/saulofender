@@ -22,6 +22,8 @@ with a focus on fraud detection and anti-money laundering (AML).
 Emerging AI technologies: AI agents, RAG pipelines and LLM fine-tuning.
 
 ## 🚀 Featured Projects
+- [Client Risk Monitoring Dashboard](https://saulo-valentim.shinyapps.io/appMineracao/) – Interactive Shiny app (R, golem) for monitoring brokerage client risk in anti-money laundering and fair-practice analysis, with risk matrix, alerts map and regulatory risk views (demo data).
+- [marmitar](https://github.com/saulofender/marmitar) – R package with a vegan meal box dataset (web-scraped) and functions to browse, filter and randomly draw meals and combos. Documented with pkgdown.
 - [Image Classification with Deep Learning in R](https://saulofender.github.io/blogDoSaulo/posts/2022-03-24-projeto-deep-learning/) – Image classifier built with Keras and TensorFlow, using R.
 - [Linear Regression with R](https://saulofender.github.io/blogDoSaulo/posts/2021-11-13-projeto-regresso-linear-com-r/) – Analysis of which car characteristics best explain fuel efficiency.
 - [Polyglot Post: R, Python & SQL](https://saulofender.github.io/blogDoSaulo/posts/2021-04-07-exemplo-de-post-poliglota/) – Combining R, Python and SQL in a single R Markdown document.
